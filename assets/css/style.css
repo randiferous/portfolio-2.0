@@ -1,0 +1,8 @@
+@media screen and (max-width: 980px) {
+    #navbar-name {
+       justify-content: center;
+    }
+    #navbar-sections {
+        justify-content: center;
+    }
+}
