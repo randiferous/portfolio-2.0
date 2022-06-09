@@ -2,6 +2,10 @@ address {
    font-style: normal
 }
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 @media screen and (max-width: 980px) {
     #navbar-name {
        justify-content: center;
