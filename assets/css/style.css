@@ -11,6 +11,10 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+#tech-blog {
+    border: 1px solid blue; 
+}
+
 @media screen and (max-width: 980px) {
     #navbar-name {
        justify-content: center;
