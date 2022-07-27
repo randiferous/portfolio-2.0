@@ -4,7 +4,7 @@
 }
 
 address {
-   font-style: normal
+    font-style: normal
 }
 
 body {
@@ -12,13 +12,14 @@ body {
 }
 
 #tech-blog {
-    border: 1px solid blue; 
+    border: 1px solid blue;
 }
 
 @media screen and (max-width: 980px) {
     #navbar-name {
-       justify-content: center;
+        justify-content: center;
     }
+
     #navbar-sections {
         justify-content: center;
     }
